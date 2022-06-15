@@ -25,6 +25,8 @@ Primary: #e67e22
 
 /* --- 07 WHITESPACE */
 
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -36,7 +38,7 @@ html {
 }
 
 body {
-  font-family: sans-serif;
+  font-family: "Rubik", sans-serif;
   line-height: 1;
   font-weight: 400;
   color: #555;
